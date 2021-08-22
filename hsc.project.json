@@ -5,7 +5,17 @@
     },
     "scenes": {
         "main": {
-            "name": "Scene 1"
+            "name": "Scene 1",
+            "objects": {
+                "objects/score.hsc": {
+                    "name": "Score Count",
+                    "position": [50, 50]
+                },
+                "objects/text.hsc": {
+                    "name": "Text",
+                    "position": [200, 200]
+                }
+            }
         }
     }
 }
