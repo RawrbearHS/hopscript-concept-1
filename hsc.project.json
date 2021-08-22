@@ -1,0 +1,11 @@
+{
+    "meta": {
+        "projectName": "Whack a Dot",
+        "author": "Rawrbear"
+    },
+    "scenes": {
+        "main": {
+            "name": "Scene 1"
+        }
+    }
+}
